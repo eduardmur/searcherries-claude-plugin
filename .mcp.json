@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "searcherries": {
+      "type": "http",
+      "url": "https://app.searcherries.com/mcp/searcherries"
+    }
+  }
+}

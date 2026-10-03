@@ -1,0 +1,30 @@
+{
+  "name": "searcherries",
+  "displayName": "Searcherries",
+  "version": "1.0.0",
+  "description": "AI visibility and SEO data for GEO work: how AI assistants answer your customers' questions, which competitors and sources they name, plus your Search Console, Bing Webmaster Tools and GA4 data, with workflows that turn it into page changes.",
+  "author": {
+    "name": "Searcherries",
+    "email": "hello@searcherries.com",
+    "url": "https://searcherries.com"
+  },
+  "homepage": "https://searcherries.com/docs/mcp/overview",
+  "repository": "https://github.com/eduardmur/searcherries-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "geo",
+    "ai-visibility",
+    "ai-search",
+    "seo",
+    "google-search-console",
+    "bing-webmaster-tools",
+    "google-analytics",
+    "competitors",
+    "citations"
+  ],
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://searcherries.com/docs/mcp/overview",
+  "supportUrl": "https://searcherries.com/docs/account/support",
+  "privacyPolicyUrl": "https://searcherries.com/privacy",
+  "termsOfServiceUrl": "https://searcherries.com/terms"
+}

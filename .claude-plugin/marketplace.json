@@ -1,0 +1,15 @@
+{
+  "name": "searcherries",
+  "description": "Searcherries plugin for Claude: AI visibility and SEO data for GEO work",
+  "owner": {
+    "name": "Searcherries",
+    "email": "hello@searcherries.com"
+  },
+  "plugins": [
+    {
+      "name": "searcherries",
+      "source": "./",
+      "description": "AI visibility and SEO data from Searcherries, with GEO workflows: action plan, audit, content gaps, competitor gap, page brief, question review, weekly report."
+    }
+  ]
+}
